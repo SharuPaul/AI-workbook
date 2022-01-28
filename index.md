@@ -7,28 +7,22 @@ header:
 excerpt: 'Democratizing geospatial analysis through practical tutorials'
 feature_row:
 
-  - title: "Introduction to Unix"
+  - title: "Example 1: Introduction to Unix"
     image_path: /assets/images/alexander-sinn-KgLtFCgfC28-unsplash.jpg
     alt: "Programs"
     url: "IntroductionToCommandLine/IntroToCommandLine_landingPage"
     btn_label: "Learn More"
 
-  - title: "Introduction to Ceres HPC workflows"
+  - title: "Example 2: Introduction to Ceres HPC workflows"
     image_path: /assets/images/nasa-1lfI7wkGWZ4-unsplash.jpg
     alt: "Programs2"
     url: "Workshops/Workshop"
     btn_label: "Learn More"
 
-  - title: "Introduction to Image Analysis"
+  - title: "Example 3: Introduction to Image Analysis"
     image_path: /assets/images/joshua-sortino-LqKhnDzSF-8-unsplash.jpg
     alt: "Programs2"
     url: "Workshops/ImageMLWorkshop"
-    btn_label: "Learn More"
-
-  - title: "Index of Jupyter Notebooks"
-    image_path: /assets/images/markus-spiske-qjnAnF0jIGk-unsplash.jpg
-    alt: "Programs3"
-    url: "Workshops/JupyterNtbk"
     btn_label: "Learn More"
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: "GIS Workbook"
+title: "AI Workbook"
 
 permalink: /about.html
 layout: single

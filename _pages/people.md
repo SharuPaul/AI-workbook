@@ -15,7 +15,7 @@ header:
 ![Andrew](../assets/images/people/Andrew.png){: .align-left}
 His PhD was in Biophysics/NMR spectroscopy. He did a Bioinformatics Postdoc in Soybean genetics and now runs the Genome Informatics Facility at Iowa State University.
 
-### Kerrie Geil
+### Brian Stucky
 
-![Kerrie](../assets/images/people/profile.jpg){: .align-left-profile }
+![Brian Stucky](../assets/images/people/profile.jpg){: .align-left-profile }
 Two sentence bio here.
