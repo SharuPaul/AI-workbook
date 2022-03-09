@@ -25,6 +25,12 @@ feature_row:
     url: "Workshops/ImageMLWorkshop"
     btn_label: "Learn More"
 
+  - title: "AlphaFold: Protein Struture Prediction"
+    image_path: /assets/images/joshua-sortino-LqKhnDzSF-8-unsplash.jpg
+    alt: "Programs2"
+    url: "Alphafold/Alphafold-landingPage"
+    btn_label: "Learn More"
+
 ---
 
 
