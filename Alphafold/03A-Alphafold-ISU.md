@@ -143,6 +143,8 @@ time alphafold --fasta_paths=${m_work}/INPUTS/monomer.fasta --output_dir=${m_wor
 []
 
 
+---
+
+[Table of contents](../index.md){: .btn  .btn--primary}
 [AlphaFold index](Alphafold-landingPage.md){: .btn  .btn--primary}
 [Next](03B-Alphafold-SCINet.md){: .btn  .btn--primary}
-[Table of contents](../index.md){: .btn  .btn--primary}

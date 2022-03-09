@@ -68,6 +68,8 @@ To find the scientific insights of AlphaFold modeling as well as to learn useful
 [![ColabFold Video](https://img.youtube.com/vi/Rfw7thgGTwI/0.jpg)](https://www.youtube.com/watch?v=Rfw7thgGTwI)
 
 
+---
+
+[Table of contents](../index.md){: .btn  .btn--primary}
 [AlphaFold index](Alphafold-landingPage.md){: .btn  .btn--primary}
 [Next](03-AlphafoldHPC.md){: .btn  .btn--primary}
-[Table of contents](../index.md){: .btn  .btn--primary}

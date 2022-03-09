@@ -17,7 +17,7 @@ Protein structure prediction, that is, the determination of the three-dimensiona
 > AlphaFold is an artificial intelligence (AI) program developed by Alphabets's/Google's DeepMind which performs predictions of protein structure. The program is designed as a deep learning system. <br>
 A team that used AlphaFold 2 (2020) [...] scored above 90 for around two-thirds of the proteins in CASP's global distance test (GDT), a test that measures the degree to which a computational program predicted structure is similar to the lab experiment determined structure, with 100 being a complete match.<br>
 Some researchers noted that the accuracy is not high enough for a third of its predictions, and that it does not reveal the mechanism or rules of protein folding for the protein folding problem to be considered solved. Nevertheless, there has been widespread respect for the technical achievement.<br>
-<p style="text-align: right; font-style: italic;"> <a href="https://en.wikipedia.org/wiki/AlphaFold">Wikipedia/AlphaFold</a></p
+<p style="text-align: right; font-style: italic;"> <a href="https://en.wikipedia.org/wiki/AlphaFold">Wikipedia/AlphaFold</a></p>
 
 
 **Explore other resources**
@@ -49,7 +49,8 @@ The Colab is a freely accessible online Colaboratory Google Research platform, w
 The general instructions of using AlphaFold2 preinstalled as a standalone module on various High Performance Computing infrastructures are provided in the [AlphaFold High Performance Computing](03-AlphafoldHPC.md) section. In addition, a detailed description of how AlphaFold2 is configured on Iowa State University's HPC infrastructure and SCINet HPC is available in the [AlphaFold via the ISU HPC infrastructure](03A-Alphafold-ISU.md) and [AlphaFold via the SCINet HPC infrastructure](03B-Alphafold-SCINet.md) sections, respectively.
 
 
+---
 
+[Table of contents](../index.md){: .btn  .btn--primary}
 [AlphaFold index](Alphafold-landingPage.md){: .btn  .btn--primary}
 [Next](02-AlphafoldCloudComputing.md){: .btn  .btn--primary}
-[Table of contents](../index.md){: .btn  .btn--primary}

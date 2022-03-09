@@ -46,5 +46,7 @@ The format required by SLURM for `#SBATCH --time=` option is `days-hours:minutes
 In general, SMALL proteins (less than 200 amino acids) require less than an hour `1:0:0`, MEDIUM proteins (200-800 amino acids) should be completed within 3 hours so reserve up to `5:0:0`, for most LARGE proteins (800-2500 amino acids), 7 hours should be sufficient but better ask for `10:0:0`, and for HUGE proteins (more than 2500 amino acids) it is safer to reserve a full day `1-0:0:0` while increasing the number of tasks and memory. Extend the runtime if needed.
 
 
-[AlphaFold index](Alphafold-landingPage.md){: .btn  .btn--primary}
+---
+
 [Table of contents](../index.md){: .btn  .btn--primary}
+[AlphaFold index](Alphafold-landingPage.md){: .btn  .btn--primary}

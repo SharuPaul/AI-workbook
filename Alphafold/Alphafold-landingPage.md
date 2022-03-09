@@ -24,5 +24,5 @@ header:
 
 ---
 
-[Next](00_ProteinStructure.md){: .btn  .btn--primary}
 [Table of contents](../index.md){: .btn  .btn--primary}
+[Next](00_ProteinStructure.md){: .btn  .btn--primary}
