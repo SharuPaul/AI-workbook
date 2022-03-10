@@ -6,6 +6,14 @@ Andrew Severin:
   email       : "mailto:severin@iastate.edu"
   website     : "https://gif.biotech.iastate.edu"
 
+Aleksandra Badaczewska:
+  name        : "Aleksandra Badaczewska"
+  bio         : "My Ph.D. was in Computational Biology, and I specialized in Structural Bioinformatics tasks. My great passion is graphic design and software development. That includes the programmatic creation of interactive and portable graphs. My mission as a Research Scientist at the Genome Informatics Facility is to develop a comprehensive collection of highly customizable visualization solutions for bioinformatics and geospatial analyses. In tandem with this, I am looking into incorporating machine learning and artificial intelligence technologies for improving bioinformatics challenges. I may provide broad support in optimization and robustness of software written in C++, Python, HTML, CSS, and JavaScript.  "
+  avatar      : "/assets/images/people/Alex.png"
+  twitter     : "AlexBadacz"
+  email       : "mailto:abadacz@iastate.edu"
+  website     : "https://gif.biotech.iastate.edu"
+
 Kerrie Geil:
   name        : "Kerrie Geil"
   bio         : "Bio text here"

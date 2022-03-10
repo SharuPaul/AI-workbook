@@ -1,6 +1,8 @@
 ---
 title: "Protein structure"
 layout: single
+author: Aleksandra Badaczewska
+author_profile: true
 header:
   overlay_color: "444444"
   overlay_image: /assets/images/margaret-weir-GZyjbLNOaFg-unsplash_dark.jpg
