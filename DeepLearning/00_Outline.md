@@ -19,10 +19,14 @@ Deep learning is a subset of machine learning technique that uses deep neural ne
 ### Deep Learning in Bioinformatics
 
 Just like pattern recognition in a picture, a model can also learn to recognize patterns in genetic sequences, protein structures, and other biological data. This capability can enable more in depth understanding of biological processes. Deep learning models can utilize large datasets to learn complex relations and patterns in biological data such as DNA/RNA/protein sequences to make predictions.
+<br>
+<br>
 
 ## What are Deep Neural Networks?
 
 A neural network consists of layers of interconnected neurons—simple units that receive input, process it, and pass on their output to the next layer. There are three layers in a simple neural network, an input layer, a hidden layer, and an output layer. A neural network is considered "deep" when it has more than one hidden layer.
+<br>
+<br>
 
 ## Types of Learning in Deep Neural Networks
 
